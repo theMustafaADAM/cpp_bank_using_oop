@@ -8,8 +8,8 @@
 #include <iomanip>
 #include "clsPerson.h"
 #include "UGlobal.h"
-#include "../../OOP_Projects_Utility_Class/include/clsUtil.h"
-#include "../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+#include "../include/clsUtil.h"
+#include "../include/clsInputValidate.h"
 
 using namespace std;
 

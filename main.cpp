@@ -1,4 +1,4 @@
-#include "../OOP_Projects_Bank_Class/include/clsLoginScreen.h"
+#include "../include/clsLoginScreen.h"
 #include <iostream>
 
 using namespace std;
