@@ -1,0 +1,431 @@
+# depslib dependency file v1.0
+1677658643 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/main.cpp
+	"clsLoginScreen.h"
+	<iostream>
+
+1677122343 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsBankClient.cpp
+	"clsBankClient.h"
+
+1677837723 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsBankClient.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<iomanip>
+	"clsPerson.h"
+	"UGlobal.h"
+	"../../OOP_Projects_Utility_Class/include/clsUtil.h"
+	"../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+
+1677122333 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsPerson.cpp
+	"clsPerson.h"
+
+1677125801 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsPerson.h
+	<iostream>
+	<string>
+
+1677850567 /home/mus/Dropbox/C++Programming/Cpp_OOP_L1/OOP_Project_String_Class/include/clsString.h
+	<iostream>
+	<string>
+	<vector>
+
+1677865505 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_InputValidation/include/clsInputValidate.h
+	<iostream>
+	"../../../Cpp_OOP_L1/OOP_Projects_Date/include/clsDate.h"
+	<string>
+	"../../../Cpp_OOP_L1/OOP_Project_String_Class/include/clsString.h"
+	<limits>
+	<utility>
+
+1677494668 /home/mus/Dropbox/C++Programming/Cpp_OOP_L1/OOP_Projects_Date/include/clsDate.h
+	<iostream>
+	<vector>
+	<string>
+	<stdio.h>
+	"../../OOP_Project_String_Class/include/clsString.h"
+
+1677850549 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Utility_Class/include/clsUtil.h
+	<iostream>
+	<string>
+	"../../../Cpp_OOP_L1/OOP_Projects_Date/include/clsDate.h"
+
+1677266705 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/src/clsMainScreen.cpp
+
+1677271124 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsScreen.cpp
+	"clsScreen.h"
+
+1677471282 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsScreen.h
+	<iostream>
+	<iomanip>
+	"UGlobal.h"
+	"../../../Cpp_OOP_L1/OOP_Projects_Date/include/clsDate.h"
+
+1677271301 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsMainScreen.cpp
+	"clsMainScreen.h"
+
+1677865633 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsMainScreen.h
+	"../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+	"clsAddNewClientScreen.h"
+	"clsDeleteClientScreen.h"
+	"clsUpdateClientScrean.h"
+	"clsTransactionScreen.h"
+	"clsManageUserScreen.h"
+	"clsFindClientScreen.h"
+	"clsClientListScreen.h"
+	"clsListUserScreen.h"
+	"clsCurrencyExchangeScreen.h"
+	"clsLoginRegisterScreen.h"
+	"clsScreen.h"
+	"UGlobal.h"
+	<iostream>
+	<iomanip>
+
+1677469704 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsClientListScreen.h
+	"clsBankClient.h"
+	"clsScreen.h"
+	<iostream>
+	<iomanip>
+
+1677293133 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsClientListScreen.cpp
+	"clsClientListScreen.h"
+
+1677469704 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsAddNewClientScreen.h
+	"../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+	"clsBankClient.h"
+	"clsScreen.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1677310521 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsAddNewClientScreen.cpp
+	"clsAddNewClientScreen.h"
+
+1677469704 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsDeleteClientScreen.h
+	"../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+	"clsBankClient.h"
+	"clsScreen.h"
+	<iostream>
+	<iomanip>
+
+1677332969 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsDeleteClientScreen.cpp
+	"clsDeleteClientScreen.h"
+
+1677344156 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/ clsUpdateClientScreen.cpp
+	" clsUpdateClientScreen.h"
+
+1677388027 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/ clsUpdateClientScreen.h
+	"../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+	"clsBankClient.h"
+	"clsScreen.h"
+	<iostream>
+	<iomanip>
+
+1677469704 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsUpdateClientScrean.h
+	"../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+	"clsBankClient.h"
+	"clsScreen.h"
+	<iostream>
+	<iomanip>
+
+1677339986 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsUpdateClientScrean.cpp
+	"clsUpdateClientScrean.h"
+
+1677469704 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsFindClientScreen.h
+	"../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+	"clsBankClient.h"
+	"clsScreen.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1677347509 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsFindClientScreen.cpp
+	"clsFindClientScreen.h"
+
+1677865703 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsTransactionScreen.h
+	"../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+	"clsTransferRecordsScreen.h"
+	"clsTotalBalancesScreen.h"
+	"clsWithdrawsScreen.h"
+	"clsDepositsScreen.h"
+	"clsTransferScreen.h"
+	"clsBankClient.h"
+	"clsScreen.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1677354638 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsTransactionScreen.cpp
+	"clsTransactionScreen.h"
+
+1677388258 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsDepositsScreen.h
+	"clsScreen.h"
+	"clsBankClient.h"
+	"clsDepositsScreen.h"
+	"../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1677378710 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsDepositsScreen.cpp
+	"clsDepositsScreen.h"
+
+1677388766 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsWithdrawsScreen.h
+	"../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+	"clsDepositsScreen.h"
+	"clsBankClient.h"
+	"clsScreen.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1677388516 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsTotalBalancesScreen.h
+	"../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+	"clsDepositsScreen.h"
+	"clsBankClient.h"
+	"clsScreen.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1677380862 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsWithdrawsScreen.cpp
+	"clsWithdrawsScreen.h"
+
+1677382426 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsTotalBalancesScreen.cpp
+	"clsTotalBalancesScreen.h"
+
+1677865703 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsManageUserScreen.h
+	"../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+	"clsAddNewUserScreen.h"
+	"clsDeleteUserScreen.h"
+	"clsUpdateUserScreen.h"
+	"clsFindUserScreen.h"
+	"clsListUserScreen.h"
+	"clsBankClient.h"
+	"clsScreen.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1677406211 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsManageUserScreen.cpp
+	"clsManageUserScreen.h"
+
+1677864670 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsListUserScreen.h
+	"clsScreen.h"
+	"clsUsers.h"
+	<iostream>
+	<iomanip>
+
+1677848441 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsUsers.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<iomanip>
+	"clsPerson.h"
+	"filesGlobal.h"
+	"../../OOP_Projects_Utility_Class/include/clsUtil.h"
+	"../../../Cpp_OOP_L1/OOP_Projects_Date/include/clsDate.h"
+	"../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+
+1677421110 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsUsers.cpp
+	"clsUsers.h"
+
+1677424525 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsListUserScreen.cpp
+	"clsListUserScreen.h"
+
+1677427043 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsAddNewUserScreen.cpp
+	"clsAddNewUserScreen.h"
+
+1677517000 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsAddNewUserScreen.h
+	"../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+	"clsScreen.h"
+	"clsUsers.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1677432130 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsDeleteUserScreen.h
+	"../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+	"clsScreen.h"
+	"clsUsers.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1677431613 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsDeleteUserScreen.cpp
+	"clsDeleteUserScreen.h"
+
+1677517041 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsUpdateUserScreen.h
+	"../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+	"clsScreen.h"
+	"clsUsers.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1677432530 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsUpdateUserScreen.cpp
+	"clsUpdateUserScreen.h"
+
+1677433743 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsFindUserScreen.h
+	"../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+	"clsScreen.h"
+	"clsUsers.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1677433438 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsFindUserScreen.cpp
+	"clsFindUserScreen.h"
+
+1677438512 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsLoginScreen.cpp
+	"clsLoginScreen.h"
+
+1677494304 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsLoginScreen.h
+	"../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+	"clsMainScreen.h"
+	"clsScreen.h"
+	"clsUsers.h"
+	"UGlobal.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1677447016 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/Global.h
+	<iostream>
+	"clsUsers.h"
+
+1677446940 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/Global.cpp
+
+1677837365 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/UGlobal.h
+	<iostream>
+	"clsUsers.h"
+
+1677837360 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/UGlobal.cpp
+	"UGlobal.h"
+
+1677654638 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsLoginRegisterScreen.h
+	"../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+	"clsAddNewUserScreen.h"
+	"clsDeleteUserScreen.h"
+	"clsUpdateUserScreen.h"
+	"clsFindUserScreen.h"
+	"clsListUserScreen.h"
+	"clsLoginRecords.h"
+	"clsScreen.h"
+	"clsUsers.h"
+	<iostream>
+	<iterator>
+	<iomanip>
+	<string>
+
+1677495171 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsLoginRegisterScreen.cpp
+	"clsLoginRegisterScreen.h"
+
+1677838314 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsLoginRecords.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<iomanip>
+	"filesGlobal.h"
+	"../../../Cpp_OOP_L1/OOP_Project_String_Class/include/clsString.h"
+	"../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+	"../../../Cpp_OOP_L1/OOP_Projects_Date/include/clsDate.h"
+	"../../OOP_Projects_Utility_Class/include/clsUtil.h"
+
+1677653903 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsLoginRecords.cpp
+	"clsLoginRecords.h"
+
+1677560915 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsTransferScreen.h
+	"../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+	"clsDepositsScreen.h"
+	"clsBankClient.h"
+	"clsScreen.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1677554655 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsTransferScreen.cpp
+	"clsTransferScreen.h"
+
+1677660510 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsTransferRecordsScreen.h
+	"../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+	"clsDepositsScreen.h"
+	"clsBankClient.h"
+	"clsScreen.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1677561953 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsTransferRecordsScreen.cpp
+	"clsTransferRecordsScreen.h"
+
+1677642795 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsCurrency.cpp
+	"clsCurrency.h"
+
+1677830817 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsCurrency.h
+	<iostream>
+	<string>
+	"UGlobal.h"
+	"../../../Cpp_OOP_L1/OOP_Project_String_Class/include/clsString.h"
+	<fstream>
+	<vector>
+
+1677865703 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsCurrencyExchangeScreen.h
+	"../../OOP_Projects_InputValidation/include/clsInputValidate.h"
+	"clsCurrencyCalculatorScreen.h"
+	"clsCurrenciesListScreen.h"
+	"clsFindCurrencyScreen.h"
+	"clsUpdateRateScreen.h"
+	"clsScreen.h"
+	<iostream>
+	<iomanip>
+	<string>
+
+1677644761 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsCurrencyExchangeScreen.cpp
+	"clsCurrencyExchangeScreen.h"
+
+1677656323 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsCurrenciesListScreen.h
+	"clsScreen.h"
+	"clsCurrency.h"
+	<iostream>
+	<iomanip>
+
+1677650518 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsCurrenciesListScreen.cpp
+	"clsCurrenciesListScreen.h"
+
+1677655341 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsFindCurrencyScreen.cpp
+	"clsFindCurrencyScreen.h"
+
+1677658663 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsFindCurrencyScreen.h
+	"clsCurrency.h"
+	"clsScreen.h"
+	<iostream>
+	<iomanip>
+
+1677663194 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsUpdateRateScreen.h
+	"clsCurrency.h"
+	"clsScreen.h"
+	<iostream>
+	<iomanip>
+
+1677660816 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsUpdateRateScreen.cpp
+	"clsUpdateRateScreen.h"
+
+1677687887 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/clsCurrencyCalculatorScreen.h
+	"clsCurrency.h"
+	"clsScreen.h"
+	<iostream>
+	<iomanip>
+
+1677676577 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/clsCurrencyCalculatorScreen.cpp
+	"clsCurrencyCalculatorScreen.h"
+
+1677850427 /home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/include/filesGlobal.h
+	<iostream>
+
+1677850626 source:/home/mus/Dropbox/C++Programming/Cpp_OOP_L2/OOP_Projects_Bank_Class/src/filesGlobal.cpp
+	"filesGlobal.h"
+	<iostream>
+	<string>
+

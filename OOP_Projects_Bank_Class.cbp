@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="OOP_Projects_Bank_Class" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="Cpp_OOP_L2/OOP_Projects_Bank_Class/include/" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/OOP_Projects_Bank_Class" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+					<Add directory="OOP_Projects_Bank_Class/include" />
+					<Add directory="Cpp_OOP_L2/OOP_Projects_Bank_Class/include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/OOP_Projects_Bank_Class" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+					<Add directory="OOP_Projects_Bank_Class/include" />
+					<Add directory="Cpp_OOP_L2/OOP_Projects_Bank_Class/include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../../Cpp_OOP_L1/OOP_Project_String_Class/include/clsString.h" />
+		<Unit filename="../../Cpp_OOP_L1/OOP_Projects_Date/OOP_Projects_Date.cbp" />
+		<Unit filename="../../Cpp_OOP_L1/OOP_Projects_Date/include/clsDate.h" />
+		<Unit filename="../OOP_Projects_InputValidation/include/clsInputValidate.h" />
+		<Unit filename="../OOP_Projects_Utility_Class/include/clsUtil.h" />
+		<Unit filename="LoginRegister.txt" />
+		<Unit filename="include/UGlobal.h" />
+		<Unit filename="include/clsAddNewClientScreen.h" />
+		<Unit filename="include/clsAddNewUserScreen.h" />
+		<Unit filename="include/clsBankClient.h" />
+		<Unit filename="include/clsClientListScreen.h" />
+		<Unit filename="include/clsCurrenciesListScreen.h" />
+		<Unit filename="include/clsCurrency.h" />
+		<Unit filename="include/clsCurrencyCalculatorScreen.h" />
+		<Unit filename="include/clsCurrencyExchangeScreen.h" />
+		<Unit filename="include/clsDeleteClientScreen.h" />
+		<Unit filename="include/clsDeleteUserScreen.h" />
+		<Unit filename="include/clsDepositsScreen.h" />
+		<Unit filename="include/clsFindClientScreen.h" />
+		<Unit filename="include/clsFindCurrencyScreen.h" />
+		<Unit filename="include/clsFindUserScreen.h" />
+		<Unit filename="include/clsListUserScreen.h" />
+		<Unit filename="include/clsLoginRecords.h" />
+		<Unit filename="include/clsLoginRegisterScreen.h" />
+		<Unit filename="include/clsLoginScreen.h" />
+		<Unit filename="include/clsMainScreen.h" />
+		<Unit filename="include/clsManageUserScreen.h" />
+		<Unit filename="include/clsPerson.h" />
+		<Unit filename="include/clsScreen.h" />
+		<Unit filename="include/clsTotalBalancesScreen.h" />
+		<Unit filename="include/clsTransactionScreen.h" />
+		<Unit filename="include/clsTransferRecordsScreen.h" />
+		<Unit filename="include/clsTransferScreen.h" />
+		<Unit filename="include/clsUpdateClientScrean.h" />
+		<Unit filename="include/clsUpdateRateScreen.h" />
+		<Unit filename="include/clsUpdateUserScreen.h" />
+		<Unit filename="include/clsUsers.h" />
+		<Unit filename="include/clsWithdrawsScreen.h" />
+		<Unit filename="include/filesGlobal.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/UGlobal.cpp" />
+		<Unit filename="src/clsAddNewClientScreen.cpp" />
+		<Unit filename="src/clsAddNewUserScreen.cpp" />
+		<Unit filename="src/clsClientListScreen.cpp" />
+		<Unit filename="src/clsCurrenciesListScreen.cpp" />
+		<Unit filename="src/clsCurrency.cpp" />
+		<Unit filename="src/clsCurrencyCalculatorScreen.cpp" />
+		<Unit filename="src/clsCurrencyExchangeScreen.cpp" />
+		<Unit filename="src/clsDeleteClientScreen.cpp" />
+		<Unit filename="src/clsDeleteUserScreen.cpp" />
+		<Unit filename="src/clsDepositsScreen.cpp" />
+		<Unit filename="src/clsFindClientScreen.cpp" />
+		<Unit filename="src/clsFindCurrencyScreen.cpp" />
+		<Unit filename="src/clsFindUserScreen.cpp" />
+		<Unit filename="src/clsListUserScreen.cpp" />
+		<Unit filename="src/clsLoginRecords.cpp" />
+		<Unit filename="src/clsLoginRegisterScreen.cpp" />
+		<Unit filename="src/clsLoginScreen.cpp" />
+		<Unit filename="src/clsMainScreen.cpp" />
+		<Unit filename="src/clsManageUserScreen.cpp" />
+		<Unit filename="src/clsScreen.cpp" />
+		<Unit filename="src/clsTotalBalancesScreen.cpp" />
+		<Unit filename="src/clsTransactionScreen.cpp" />
+		<Unit filename="src/clsTransferRecordsScreen.cpp" />
+		<Unit filename="src/clsTransferScreen.cpp" />
+		<Unit filename="src/clsUpdateClientScrean.cpp" />
+		<Unit filename="src/clsUpdateRateScreen.cpp" />
+		<Unit filename="src/clsUpdateUserScreen.cpp" />
+		<Unit filename="src/clsUsers.cpp" />
+		<Unit filename="src/clsWithdrawsScreen.cpp" />
+		<Unit filename="src/filesGlobal.cpp" />
+		<Unit filename="transferRecords.txt" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
